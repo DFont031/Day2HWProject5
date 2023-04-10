@@ -7,5 +7,10 @@ public class HWClass5 {
 		System.out.println("First line...");
 		
 	}
+	
+	public void pullTest() {
+		System.out.println("test");
+		
+	}
 
 }
